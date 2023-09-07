@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QhMk/vj6P0GiXLtKxVIZ9ynbhVIyv4mgoVONZ806dFzKSITak3t6Nl6n+gW/CPGpk8dpiTgn2xXOAqstHriKEA==",
+  "success": true,
+  "projectFilePath": "D:\\Work\\TestTasks\\MinesweeperTest\\MinesweeperBackend.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Halk\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\6.0.21\\microsoft.aspnetcore.jsonpatch.6.0.21.nupkg.sha512",
+    "C:\\Users\\Halk\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\6.0.21\\microsoft.aspnetcore.mvc.newtonsoftjson.6.0.21.nupkg.sha512",
+    "C:\\Users\\Halk\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Halk\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\Halk\\.nuget\\packages\\newtonsoft.json.bson\\1.0.2\\newtonsoft.json.bson.1.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

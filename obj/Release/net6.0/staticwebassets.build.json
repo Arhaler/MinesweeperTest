@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3x8m9ND8zxtOeWl+AVfdR4fjJff3zD3bQZy7+DMXe+E=",
+  "Source": "MinesweeperBackend",
+  "BasePath": "_content/MinesweeperBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

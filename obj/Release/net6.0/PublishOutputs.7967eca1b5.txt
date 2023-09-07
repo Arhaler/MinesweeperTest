@@ -1,0 +1,11 @@
+D:\Work\TestTasks\MinesweeperTest\obj\Release\net6.0\PubTmp\Out\MinesweeperBackend.exe
+D:\Work\TestTasks\MinesweeperTest\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Work\TestTasks\MinesweeperTest\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Work\TestTasks\MinesweeperTest\obj\Release\net6.0\PubTmp\Out\MinesweeperBackend.dll
+D:\Work\TestTasks\MinesweeperTest\obj\Release\net6.0\PubTmp\Out\MinesweeperBackend.deps.json
+D:\Work\TestTasks\MinesweeperTest\obj\Release\net6.0\PubTmp\Out\MinesweeperBackend.runtimeconfig.json
+D:\Work\TestTasks\MinesweeperTest\obj\Release\net6.0\PubTmp\Out\MinesweeperBackend.pdb
+D:\Work\TestTasks\MinesweeperTest\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+D:\Work\TestTasks\MinesweeperTest\obj\Release\net6.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Work\TestTasks\MinesweeperTest\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Work\TestTasks\MinesweeperTest\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
