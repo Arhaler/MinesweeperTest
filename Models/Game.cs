@@ -60,7 +60,6 @@ namespace MinesweeperBackend.Models {
         /// </summary>
         /// <param name="col">Колонка исходной ячейки</param>
         /// <param name="row">Ряд исходной ячейки</param>
-        /// <param name="win">Если true, то все ячейки с минами будут изменены на M</param>
         private void OpenNeighbors(int col, int row) {
             openedCells++;
             int minesNeighbors = 0;
@@ -104,6 +103,7 @@ namespace MinesweeperBackend.Models {
         /// <summary>
         /// Открывает еще закрытые ячейки, если игра выиграна, то мины меняются на M
         /// </summary>
+        /// /// <param name="win">Если true, то все ячейки с минами будут изменены на M</param>
         private void OpenField(bool win) {
             Completed = true;
 
